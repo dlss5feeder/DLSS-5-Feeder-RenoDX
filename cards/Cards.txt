@@ -1,0 +1,2 @@
+/* rev-c3d90e-20260902 Cards.txt */
+build=v1.0.7
